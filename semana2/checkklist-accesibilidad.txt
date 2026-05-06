@@ -1,0 +1,5 @@
+¿El formulario tiene un título claro? Sí
+¿Los campos están bien identificados? Sí
+¿El formulario es fácil de entender? Sí
+¿El mensaje de consentimiento es claro? Sí
+¿El formulario es accesible para todos? Sí
