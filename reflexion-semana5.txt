@@ -1,0 +1,9 @@
+Las interfaces de programación de aplicaciones o APIs actúan como puentes tecnológicos esenciales
+que permiten centralizar, canalizar y estandarizar el flujo de datos dentro de un territorio.
+Al proporcionar una estructura clara y unificada para el envío de peticiones y respuestas,
+las APIs facilitan que diversas aplicaciones locales compartan reportes de manera automatizada.
+Esto evita la dispersión de la información y la duplicidad de datos en canales informales,
+permitiendo que las alertas ciudadanas se clasifiquen, prioricen y procesen de forma inmediata.
+Asimismo, su uso promueve una gobernanza comunitaria más eficiente, transparente y organizada,
+donde la información de interés público se mantiene accesible para el beneficio de los colectivos,
+fortaleciendo la capacidad de respuesta interna y la toma de decisiones autónomas en la región.

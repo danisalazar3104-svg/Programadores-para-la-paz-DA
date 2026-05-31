@@ -1,0 +1,5 @@
+1. Qué hace esta ruta:
+Esta ruta establece un endpoint de tipo POST en la direccion '/reporte'. Su funcion principal es escuchar el servidor a la espera de datos enviados de forma segura por un usuario en el cuerpo de la peticion (req.body). Al recibir el parametro 'mensaje', el servidor procesa la informacion y devuelve una respuesta estructurada en formato JSON confirmando el exito de la operacion con el estado 'Reporte recibido' junto al texto original.
+
+2. Para qué podría servir en una aplicación comunitaria:
+En el contexto de una aplicacion comunitaria, esta ruta es fundamental para canales de participacion ciudadana y veeduria local. Podria servir para que los habitantes de un territorio envien reportes de incidencias en tiempo real (como daños en infraestructura, fallas de servicios publicos o alertas de emergencias), permitiendo centralizar las solicitudes de la comunidad para gestionarlas de forma transparente y autonoma sin depender de intermediarios corporativos.
