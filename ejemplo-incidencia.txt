@@ -1,0 +1,4 @@
+{
+  "tipo": "Daño en vía",
+  "descripcion": "Existe un hueco grande frente al colegio que afecta el tránsito."
+}
