@@ -1,0 +1,13 @@
+Resultados de las pruebas del servidor:
+
+1. Ruta GET http://localhost:3000/
+   Resultado: Muestra el texto "Servidor activo" en pantalla.
+
+2. Ruta GET http://localhost:3000/saludo
+   Resultado: Muestra el texto "Hola comunidad" en pantalla.
+
+3. Ruta GET http://localhost:3000/mensaje/juan
+   Resultado: Muestra el texto "Hola juan" de forma dinámica.
+
+4. Ruta POST http://localhost:3000/reporte
+   Resultado: Al intentar acceder directamente desde el navegador genera el error "Cannot GET /reporte" debido a que los navegadores web realizan peticiones de tipo GET por defecto, mientras que el servidor espera una peticion de tipo POST con un cuerpo JSON que contenga el parámetro "mensaje".
