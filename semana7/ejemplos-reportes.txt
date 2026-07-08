@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización y reductores de velocidad en zona escolar"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Hueco profundo en la vía principal que afecta el tránsito de vehículos"
+}

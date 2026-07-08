@@ -1,0 +1,7 @@
+Al realizar una consulta (petición HTTP GET) a la ruta '/reportes', el servidor Express accede directamente al arreglo local en memoria llamado 'reportes'. 
+
+Si el sistema no ha recibido peticiones previas, responderá devolviendo un arreglo completamente vacío ([]). 
+
+Si previamente se realizaron peticiones POST exitosas, el servidor recorrerá el arreglo y devolverá una lista estructurada en formato JSON con todos los objetos de reportes acumulados, incluyendo sus propiedades automáticas como el 'id', el 'tipo' y la 'descripcion'. 
+
+Dado que la información se almacena temporalmente en la memoria RAM del servidor, si este se detiene o se reinicia, el arreglo volverá a inicializarse vacío.
