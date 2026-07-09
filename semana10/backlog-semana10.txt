@@ -1,0 +1,8 @@
+Prioridad Alta:
+Como residente afectado quiero reportar un problema de recolección de basura para que la comunidad conozca la situación del sector.
+
+Prioridad Media:
+Como líder comunitario quiero visualizar un mapa con las alertas activas para organizar las jornadas de limpieza y veeduría.
+
+Prioridad Baja:
+Como auditor del proyecto quiero descargar un resumen mensual de los reportes atendidos para verificar el cumplimiento de las entidades responsables.

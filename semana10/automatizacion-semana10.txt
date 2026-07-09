@@ -1,0 +1,11 @@
+Flujo de Automatización Simple (n8n + Telegram)
+
+1. ¿Qué evento activa el flujo?
+El flujo se activa mediante un Webhook en n8n cuando se detecta el evento: "Nuevo reporte registrado" en la base de datos de la plataforma comunitaria.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje corto y genérico que sirva únicamente como alerta:
+"Alerta de Veeduría: Se ha registrado un nuevo reporte comunitario en el sistema. Por favor, ingrese al dashboard para revisar los detalles."
+
+3. ¿Qué información no debería enviarse por seguridad?
+Por razones de seguridad y privacidad, bajo ninguna circunstancia deben enviarse datos sensibles a través de Telegram. Esto incluye: nombres completos de los ciudadanos, números de documento de identidad, direcciones residenciales exactas, números telefónicos, contraseñas o archivos adjuntos con información confidencial. Telegram se limita estrictamente a notificaciones operativas no sensibles.

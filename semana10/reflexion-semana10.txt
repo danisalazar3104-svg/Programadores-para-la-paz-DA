@@ -1,0 +1,9 @@
+Las metodologías ágiles facilitan una estructura organizada mediante un backlog priorizado.
+Esto permite que los proyectos de participación ciudadana se dividan en tareas claras y
+alcanzables, adaptándose rápidamente a las necesidades reales que surgen en el entorno.
+Por otro lado, la automatización a través de herramientas tecnológicas optimiza el tiempo
+al procesar eventos repetitivos, eliminando la carga operativa manual de los gestores.
+Finalmente, el uso de canales de comunicación accesibles e instantáneos como Telegram
+garantiza mantener informada a la comunidad mediante alertas rápidas y coordinar tareas
+colectivas de veeduría sin comprometer datos sensibles, impulsando una gestión transparente.
+Este ecosistema integrado fortalece el tejido social y la eficiencia de la colaboración.
