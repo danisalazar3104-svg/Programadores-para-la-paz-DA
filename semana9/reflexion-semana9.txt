@@ -1,0 +1,9 @@
+La estabilidad y seguridad de una plataforma comunitaria en un servidor son fundamentales para garantizar la confianza de sus usuarios.
+Si un servidor es inestable y se cae constantemente, interrumpe el acceso a los servicios esenciales, afectando la comunicación del grupo.
+Por otro lado, la falta de seguridad expone los datos privados y sensibles de los miembros a posibles filtraciones o ataques maliciosos.
+Un entorno de servidor robusto asegura que la API responda rápidamente a las solicitudes HTTP sin colapsar ante un alto flujo de tráfico.
+Mantener buenas prácticas de configuración técnica protege la integridad del backend, impidiendo accesos no autorizados al sistema.
+Además, una infraestructura estable fomenta la participación ciudadana continua, ya que las personas perciben un espacio digital confiable.
+Los componentes de un servidor deben estar optimizados para prevenir fallas técnicas que puedan dañar o corromper las bases de datos locales.
+La ciberseguridad en proyectos sociales no es opcional, sino una responsabilidad ética para proteger el tejido digital de la comunidad.
+En conclusión, un servidor seguro y estable es el pilar que sostiene el impacto positivo y la continuidad de las iniciativas tecnológicas.

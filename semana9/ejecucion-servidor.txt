@@ -1,0 +1,7 @@
+- Cuando ejecuto 'node server.js', Node.js inicializa el script del servidor, lee las rutas configuradas con Express y levanta el servicio local.
+- En la terminal aparece el mensaje 'Servidor ejecutándose en puerto 3000', lo que confirma que el backend está escuchando solicitudes correctamente.
+- Al visitar la ruta '/estado', el navegador o cliente recibe una respuesta en formato JSON que contiene el estado del servidor y el tipo de servicio:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
