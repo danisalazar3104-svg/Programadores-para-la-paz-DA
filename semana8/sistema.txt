@@ -1,0 +1,4 @@
+- uname -a: Muestra información del sistema operativo, el kernel de Linux y la arquitectura del procesador (en mi caso, un sistema Android/Linux aarch64).
+- whoami: Muestra el nombre del usuario que está utilizando la terminal actualmente (en mi caso, u0_a315).
+
+Es útil conocer esta información al administrar un servidor para saber qué recursos, sistema operativo y permisos tenemos disponibles antes de instalar o ejecutar aplicaciones.

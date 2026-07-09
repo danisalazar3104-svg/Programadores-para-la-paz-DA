@@ -1,0 +1,9 @@
+Considero que la seguridad digital es un pilar fundamental al administrar cualquier plataforma tecnológica comunitaria.
+Proteger los datos personales y las credenciales evita que información sensible caiga en manos de personas malintencionadas.
+El uso de herramientas básicas de Linux y comandos en la terminal nos permite auditar nuestro sistema y conocer el entorno.
+Configurar correctamente archivos como el .gitignore asegura que nunca subamos contraseñas o tokens a repositorios públicos.
+Además, mantener buenas prácticas de control de accesos fortalece la confianza de los usuarios que participan en el espacio.
+Una filtración de datos no solo daña el servidor de forma técnica, sino que destruye el tejido y la seguridad de la comunidad.
+Por lo tanto, la ciberseguridad no debe verse como un lujo o un proceso aislado, sino como una responsabilidad ética constante.
+Cada desarrollador debe implementar configuraciones seguras y adoptar hábitos preventivos desde la fase de desarrollo local.
+Así garantizamos un entorno digital libre de riesgos, transparente, confiable y plenamente colaborativo para todos.

@@ -1,0 +1,3 @@
+echo "1. No subir archivos .env a GitHub" > buenas-practicas.txt
+echo "2. Usar llaves SSH para servidores" >> buenas-practicas.txt
+echo "3. Evitar el uso innecesario de root" >> buenas-practicas.txt

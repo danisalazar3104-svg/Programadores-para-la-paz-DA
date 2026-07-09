@@ -1,0 +1,5 @@
+1. No exponer datos personales de los miembros de la comunidad de forma pública.
+2. Proteger las credenciales y usar contraseñas fuertes para los administradores.
+3. Usar conexiones seguras (HTTPS) para proteger la transferencia de datos.
+4. Registrar y monitorear los accesos al sistema para detectar ingresos no autorizados.
+5. Implementar roles y permisos limitados para que los usuarios solo accedan a lo que necesitan.
