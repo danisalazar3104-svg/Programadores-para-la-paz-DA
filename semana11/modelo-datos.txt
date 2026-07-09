@@ -1,0 +1,23 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- categoria
+- descripcion
+- ubicacion
+- fecha_creacion
+
+Propósito:
+Almacenar los reportes de incidencias o problemas que los ciudadanos registran en la plataforma.
+
+Entidad: HistorialEstado
+
+Campos principales:
+- id
+- reporte_id
+- estado_actual
+- comentario_ajuste
+- fecha_actualizacion
+
+Propósito:
+Llevar un registro cronológico de los cambios de estado del reporte (por ejemplo: de pendiente_revision a requiere_ajuste) y las observaciones hechas por los coordinadores.

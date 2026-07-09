@@ -1,0 +1,13 @@
+Descripción de la Interfaz Básica
+
+1. Formulario para crear una causa:
+La aplicación web dispondrá de un panel superior con un formulario limpio para ingresar el nombre de la iniciativa ciudadana, los detalles del proyecto y un selector de calendario para definir el tiempo de ejecución.
+
+2. Vista de causas disponibles:
+Abajo se desplegará una cuadrícula dinámica o feed que listará todas las propuestas activas enviadas por la comunidad, ordenadas cronológicamente para facilitar una lectura fluida.
+
+3. Botón para apoyar una causa y Contador de apoyos:
+Cada tarjeta de causa contará con un botón interactivo para "Sumar Apoyo" y una etiqueta numérica visible al lado que actualizará en tiempo real la cantidad de interacciones y votos recibidos por los usuarios.
+
+Seguridad de la interfaz:
+El diseño priorizará la usabilidad y la carga rápida de elementos visuales, asegurando restringir el acceso a paneles administrativos y ocultando estrictamente cualquier tipo de dato privado o credencial de la comunidad.

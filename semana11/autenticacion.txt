@@ -1,0 +1,6 @@
+El proceso de inicio de sesión funciona como una barrera de control encargada de verificar la identidad del usuario que intenta ingresar.
+Protegemos rutas específicas dentro del servidor porque manejan operaciones críticas, consultas a bases de datos y configuraciones privadas
+que podrían desestabilizar la plataforma si caen en manos equivocadas o si son manipuladas por personas externas sin los permisos necesarios.
+Un entorno sin restricciones permitiría filtraciones masivas de datos confidenciales y vulnerabilidades graves en la infraestructura.
+Por esta razón, queda estrictamente prohibido mostrar en el navegador datos como claves de acceso, identificadores de sesión o tokens JWT.
+Asimismo, la privacidad comunitaria exige el resguardo absoluto de correos electrónicos, números telefónicos y ubicaciones geográficas.

@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana requiere un ecosistema técnico sólido para ser confiable.
+La base de datos es indispensable porque permite estructurar, almacenar y consultar de forma segura
+todas las iniciativas y los apoyos de la comunidad, evitando que la información se pierda. Por
+su parte, la autenticación actúa como un filtro de identidad esencial que valida quién ingresa,
+impidiendo que personas ajenas manipulen el sistema o realicen acciones malintencionadas.
+Finalmente, la protección estricta de la información salvaguarda la privacidad comunitaria
+al bloquear la exposición de datos sensibles, reduciendo los riesgos de acoso o fraude digital.
+La integración de estos tres pilares garantiza un entorno transparente, seguro y legítimo.
+Esto motiva una colaboración masiva, asegurando que cada voz cuente en un espacio protegido.
