@@ -1,0 +1,5 @@
+Evento: generación del documento PDF de la petición
+
+Mensaje: "¡Petición formal completada con éxito! Se ha generado el documento oficial con las firmas comunitarias y está listo para su radicación."
+
+Información que no debe enviarse: nombres completos de los firmantes, números de identificación (cédulas), correos electrónicos de los usuarios ni credenciales de acceso de los administradores del sistema.

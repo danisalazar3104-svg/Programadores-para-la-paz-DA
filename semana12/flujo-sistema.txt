@@ -1,0 +1,5 @@
+1. El ciudadano inicia sesión en la plataforma y completa un formulario para abrir una nueva solicitud de petición.
+2. El sistema almacena la solicitud en la base de datos y la publica automáticamente en el muro comunitario.
+3. Los miembros de la comunidad ingresan al detalle de la petición y registran su firma digital o respaldo con un solo clic.
+4. Al alcanzar la meta de respaldos establecida, el sistema genera de forma automática un documento formal en formato PDF.
+5. La plataforma envía el PDF firmado y un informe de respaldo directo al correo del creador de la causa y a los entes de control correspondientes.

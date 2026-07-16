@@ -1,0 +1,9 @@
+Durante este curso comprendí que la tecnología es un puente para democratizar la participación.
+Herramientas como el diseño de modelos de datos permiten estructurar las necesidades comunitarias,
+mientras que las interfaces intuitivas facilitan que cualquier ciudadano se involucre sin barreras.
+Asimismo, aprendí el valor de la automatización y el uso de mensajería instantánea para coordinar
+y notificar de forma inmediata eventos clave, optimizando la comunicación de los colectivos.
+Un pilar fundamental fue asimilar la importancia de la ciberseguridad y la autenticación,
+garantizando que la veeduría y el apoyo digital se realicen protegiendo la privacidad comunitaria.
+En conclusión, el desarrollo tecnológico responsable no solo optimiza la gestión del tejido social,
+sino que empodera a las comunidades brindándoles herramientas eficaces para incidir en su entorno.
