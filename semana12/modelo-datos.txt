@@ -1,0 +1,22 @@
+Entidad: Solicitud
+
+Campos principales:
+- id
+- titulo_peticion
+- descripcion_motivo
+- categoria_problema
+- fecha_publicacion
+
+Propósito:
+Guardar el registro de las peticiones formales creadas por la comunidad para su visibilidad pública.
+
+Entidad: Firma
+
+Campos principales:
+- id
+- solicitud_id
+- cedula_usuario
+- fecha_firma
+
+Propósito:
+Almacenar de forma única cada respaldo digital asociado a una solicitud para validar el apoyo masivo.
